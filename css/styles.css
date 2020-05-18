@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: whitesmoke;
+}
+h5{
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
+
+
+#design{
+    display: none;
+}
+#dev{
+    display: none;
+}
+#product{
+    display: none;
+}
+body{
+    font-family: 'Domine', serif;
+    font-size: large;
+}
+.Copyright{
+    text-align: center;
+}
+
+
+
+
+
+
+
