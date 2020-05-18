@@ -10,22 +10,6 @@ h3{
 h4{
     text-align: center;
 }
-.centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    color: whitesmoke;
-    text-align: center;
-}
-h5{
-    text-align: center;
-}
-h6{
-    text-align: center;
-}
-
-
 #design{
     display: none;
 }
@@ -54,14 +38,16 @@ p{
     height: 450px;
     color: whitesmoke;
     text-align: center;
+     padding-bottom: 50px;
     
     
 }
 .welcome{
     background-image: url(/images/assets/backgrounds/h_img.jpg);
-    height: 450px;
+    height: 850px;
     color: whitesmoke;
     text-align: center;
+    
 }
 .row{
     padding: 50px;
