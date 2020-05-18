@@ -47,16 +47,25 @@ p{
 }
 .contact{
     background-image: url(/images/assets/backgrounds/c_image.jpg);
-    
+    height: 450px;
 }
 .services{
     background-image: url(/images/assets/backgrounds/s_image.jpg);
-    height: 400px;
+    height: 450px;
     color: whitesmoke;
+    text-align: center;
     
     
 }
-
+.welcome{
+    background-image: url(/images/assets/backgrounds/h_img.jpg);
+    height: 450px;
+    color: whitesmoke;
+    text-align: center;
+}
+.row{
+    padding: 50px;
+}
 
 
 
