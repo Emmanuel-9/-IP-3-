@@ -16,6 +16,7 @@ h4{
     left: 50%;
     transform: translate(-50%,-50%);
     color: whitesmoke;
+    text-align: center;
 }
 h5{
     text-align: center;
@@ -36,10 +37,24 @@ h6{
 }
 body{
     font-family: 'Domine', serif;
-    font-size: large;
+    font-size: x-large;
 }
 .Copyright{
     text-align: center;
+}
+p{
+    text-align: center;
+}
+.contact{
+    background-image: url(/images/assets/backgrounds/c_image.jpg);
+    
+}
+.services{
+    background-image: url(/images/assets/backgrounds/s_image.jpg);
+    height: 400px;
+    color: whitesmoke;
+    
+    
 }
 
 
