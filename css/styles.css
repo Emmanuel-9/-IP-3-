@@ -32,9 +32,8 @@ p{
 .contact{
     background-image: url(../images/c_image.jpg);
     height: 450px;
-    background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
+    
 }
 .services{
     background-image: url(../images/s_image.jpg);
